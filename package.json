@@ -1,0 +1,30 @@
+{
+  "name": "lambda_image_upload_cloudinary",
+  "version": "1.0.0",
+  "description": "Lambda function to upload images to cloudinary",
+  "main": "handler.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sesianani/lambda_image_upload_cloudinary.git"
+  },
+  "author": "Selasie Anani",
+  "license": "ISC",
+  "homepage": "https://github.com/sesianani/lambda_image_upload_cloudinary",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.4.13",
+    "cloudinary": "^1.4.1",
+    "grunt-aws-lambda": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/sesianani/lambda_image_upload_cloudinary/issues"
+  }
+}

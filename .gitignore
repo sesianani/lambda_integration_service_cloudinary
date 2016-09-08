@@ -1,0 +1,15 @@
+#Node Modules
+node_modules
+
+#Idea Folder
+.idea
+
+#Event.json
+event.json
+
+#Environment Variables
+.env.json
+.env
+
+#Dist Folder
+dist

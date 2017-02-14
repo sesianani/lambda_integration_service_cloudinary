@@ -10,6 +10,7 @@ event.json
 #Environment Variables
 .env.json
 .env
+config.json
 
 #Dist Folder
 dist

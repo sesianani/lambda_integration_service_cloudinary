@@ -17,12 +17,14 @@
   "license": "ISC",
   "homepage": "https://github.com/sesianani/lambda_image_upload_cloudinary",
   "devDependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^0.4.5",
+    "grunt-aws-lambda": "^1.0.0"
   },
   "dependencies": {
     "aws-sdk": "^2.4.13",
+    "bluebird": "^3.4.7",
     "cloudinary": "^1.4.1",
-    "grunt-aws-lambda": "^1.0.0"
+    "dotenv": "^4.0.0"
   },
   "bugs": {
     "url": "https://github.com/sesianani/lambda_image_upload_cloudinary/issues"

@@ -3,3 +3,4 @@ Gruntfile.js
 dist
 .env.json
 *.iml
+config.json
